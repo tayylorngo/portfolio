@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { FaLinkedin, FaGithub, FaEnvelope, FaUniversity, FaGraduationCap, FaJava, FaPython, FaHtml5, FaCss3Alt, FaJs, FaReact, FaLanguage, FaNodeJs, FaGitAlt } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaEnvelope, FaJava, FaPython, FaHtml5, FaCss3Alt, FaJs, FaReact, FaLanguage, FaNodeJs, FaGitAlt } from "react-icons/fa";
 import { DiAndroid } from "react-icons/di";
 import { SiGoogleclassroom, SiMongodb, SiFlutter, SiDart, SiTailwindcss, SiSwift } from "react-icons/si";
 
