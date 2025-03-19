@@ -208,7 +208,7 @@ export default function TeachingPortfolio() {
         <img src="https://images.pexels.com/photos/3483098/pexels-photo-3483098.jpeg" alt="Asset Return Calculator" className="rounded-lg mb-4 w-full h-40 object-cover" />
         <h3 className="text-xl font-bold mb-2">Yearly Asset Return Calculator</h3>
         <p className="text-sm mb-2">Web app to calculate returns using real-time asset data from the FMP API.</p>
-        <a href="https://github.com/tayylorngo/yearly-asset-return-calculator" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">View Project</a>
+        <a href="https://yearlyreturncalculator.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">View Project</a>
       </div>
     </div>
     <div className="mt-12 text-center">
