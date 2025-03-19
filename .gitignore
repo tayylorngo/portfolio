@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+.pnpm-debug.log
+package-lock.json
+
+# build output
+dist/
+build/
+
+# misc
+.env
+.DS_Store
+
+# Netlify
+.netlify/
